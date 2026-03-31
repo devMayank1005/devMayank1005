@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmayank1005" alt="devmayank1005" /></a> </p>
 
-- 🔭 I’m currently working on [MY Portfolio](https://github.com/devMayank1005/My-Portfolio)
+- 🔭 I’m currently working on [MY Portfolio](https://portfolio-beta-umber-79.vercel.app)
 
 - 🌱 I’m currently learning **Generative and Agentic AI**
 
