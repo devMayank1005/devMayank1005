@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -205,28 +205,28 @@ Built ProfX — student performance analytics + AI-powered quiz generator. Team 
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devmayank1005&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=devmayank1005&theme=onedark&no-frame=true&margin-w=4&column=-1" width="100%" />
 
 <br/><br/>
 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devmayank1005&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=e2b714&text_color=9CA3AF&ring_color=e2b714" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=devmayank1005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=e2b714&text_color=9CA3AF&ring_color=e2b714" width="100%" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayank1005&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9CA3AF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmayank1005&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9CA3AF" width="100%" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devmayank1005&hide_border=true&background=00000000&stroke=27272a&ring=e2b714&fire=e2b714&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6b7280" width="60%" />
+<img src="https://streak-stats.demolab.com/?user=devmayank1005&hide_border=true&background=0d1117&stroke=27272a&ring=e2b714&fire=e2b714&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6b7280" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmayank1005&hide_border=true&bg_color=00000000&color=9CA3AF&line=e2b714&point=ffffff&area=true&area_color=e2b71420" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmayank1005&hide_border=true&bg_color=0d1117&color=9CA3AF&line=e2b714&point=ffffff&area=true&area_color=e2b714" width="95%"/>
 
 </div>
 
@@ -262,6 +262,6 @@ keep scrolling ↓ to discover more!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3460,50:16213e,100:1a1a2e&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
